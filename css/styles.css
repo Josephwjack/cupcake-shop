@@ -6,7 +6,11 @@ font-style: italic;
 color: blueviolet;
 font-style: italic;
 }
-
+.emphasis {
+  font-weight: bold;
+}
 li {
-  font-size: large
+  font-size: xx-large;
+  font-style: normal;
+  text-align: center;
 }
